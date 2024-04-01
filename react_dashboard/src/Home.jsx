@@ -11,14 +11,14 @@ function Home() {
     const data = [
         {
           name: 'Page A',
-          uv: 4000,
+          uv: 5000,
           pv: 2400,
           amt: 2400,
         },
         {
           name: 'Page B',
           uv: 3000,
-          pv: 1398,
+          pv: 1698,
           amt: 2210,
         },
         {
